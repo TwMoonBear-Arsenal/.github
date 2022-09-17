@@ -1,11 +1,12 @@
 # 壹、說明
-網路安全課程相關教材資源
-請聯繫陳老師邀請加入
+網路安全討論相關教材資源
 
-# 貳、教材資源(私有儲存庫，限定權限)
+# 貳、研討資源(私有儲存庫，限定權限)
 
 ## 一、課程教材
-* [課程教材](https://github.com/TwMoonBear-Arsenal/ccit-lecturematerial-and-goodwork)
+* [紅隊滲透](https://github.com/TwMoonBear-Arsenal/red-team-lecture)
+* [藍隊防護](https://github.com/TwMoonBear-Arsenal/blue-team-lecture)
+* [黃隊研製](https://github.com/TwMoonBear-Arsenal/yellow-team-lecture)
 
 ## 二、同學相關
 * [測試區](https://github.com/TwMoonBear-Arsenal/test-area)
