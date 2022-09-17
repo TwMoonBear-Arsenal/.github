@@ -3,3 +3,5 @@
 
 # 加入方式
 請聯繫陳老師邀請加入
+
+[課程教材](https://github.com/TwMoonBear-Arsenal/ccit-lecturematerial-and-goodwork)
