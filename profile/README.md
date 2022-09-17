@@ -4,9 +4,12 @@
 # 加入方式
 請聯繫陳老師邀請加入
 
-# Material
+#討論區(私有儲存庫，限同學瀏覽)
+[討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
 
-## 教師課程相關(均為私有儲存庫，限同學瀏覽)
+# Material(私有儲存庫，限同學瀏覽)
+
+## 課程教材
 * [課程教材](https://github.com/TwMoonBear-Arsenal/ccit-lecturematerial-and-goodwork)
 
 ## 同學相關
