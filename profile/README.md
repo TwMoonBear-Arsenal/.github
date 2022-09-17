@@ -1,5 +1,5 @@
 # 壹、說明
-網路安全討論相關教材資源
+[CCIT](https://rdrc.mnd.gov.tw/EditPage/?PageID=f739f16c-d733-44cf-9882-4e1cc1acc1d3)網路安全課程相關資源
 
 # 貳、研討資源(私有儲存庫，限定權限)
 
