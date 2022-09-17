@@ -4,4 +4,4 @@
 # 加入方式
 請聯繫陳老師邀請加入
 
-[課程教材(private repo)](https://github.com/TwMoonBear-Arsenal/ccit-lecturematerial-and-goodwork)
+[課程教材（Private repo，需登入）](https://github.com/TwMoonBear-Arsenal/ccit-lecturematerial-and-goodwork)
