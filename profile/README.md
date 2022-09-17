@@ -14,5 +14,5 @@
 * [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-110-2-classwork)
 * [111學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-111-2-classwork)
 
-# 參、討論區(私有儲存庫，限定權限)
+# 三、討論區
 [討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
