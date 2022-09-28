@@ -12,7 +12,7 @@
 * [測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-109-2-classwork)
 * [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-110-2-classwork)
-* [111學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-111-2-classwork)
+* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-111-2-classwork)
 
 # 三、討論區
 [討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
