@@ -9,10 +9,13 @@
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/yellow-team-lecture)
 
 ## 二、同學相關
-* [測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-109-2-classwork)
 * [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-110-2-classwork)
 * [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-111-2-classwork)
+* [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 
-# 三、討論區
-[討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
+# 三、練習&討論區
+* [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
+* [全部人的討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
+* 各課程討論區：進各課程Repo後，再進入專屬討論區。
+* 各年班討論區：進各年班Teams後，再進入專屬討論區。
