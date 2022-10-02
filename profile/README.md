@@ -7,6 +7,8 @@
 * [紅隊滲透](https://github.com/TwMoonBear-Arsenal/red-team-lecture)
 * [藍隊防護](https://github.com/TwMoonBear-Arsenal/blue-team-lecture)
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/yellow-team-lecture)
+  - [系統層次](https://github.com/TwMoonBear-Arsenal/CCIT-Lecture-Yellow-Team/tree/main/1.系統層級)
+  - [模組層次](https://github.com/TwMoonBear-Arsenal/CCIT-Lecture-Yellow-Team/tree/main/2.模組層級)
 
 ## 二、同學相關
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-109-2-classwork)
