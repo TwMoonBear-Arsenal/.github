@@ -13,7 +13,7 @@
 ## 二、同學相關
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
 * [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-110-2)
-* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-111-2)
+* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-111-1)
 * [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 
 # 三、練習&討論區
