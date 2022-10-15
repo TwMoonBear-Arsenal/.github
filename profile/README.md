@@ -4,11 +4,11 @@
 # 貳、研討資源(私有儲存庫，限定權限)
 
 ## 一、課程教材
-* [紅隊滲透](https://github.com/TwMoonBear-Arsenal/lecture-ccit-red-team)
-* [藍隊防護](https://github.com/TwMoonBear-Arsenal/lecture-ccit-blue-team)
-* [黃隊研製](https://github.com/TwMoonBear-Arsenal/lecture-ccit-yellow-team)
-  - [系統層次](https://github.com/TwMoonBear-Arsenal/lecture-ccit-Yellow-Team/tree/main/1.系統層級)
-  - [模組層次](https://github.com/TwMoonBear-Arsenal/lecture-ccit-Yellow-Team/tree/main/2.模組層級)
+* [紅隊滲透](https://github.com/TwMoonBear-Arsenal/lec-ccit-red-team)
+* [藍隊防護](https://github.com/TwMoonBear-Arsenal/lec-ccit-blue-team)
+* [黃隊研製](https://github.com/TwMoonBear-Arsenal/lec-ccit-yellow-team)
+  - [系統層次](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/1.系統層級)
+  - [模組層次](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/2.模組層級)
 
 ## 二、同學相關
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
