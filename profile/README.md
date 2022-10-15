@@ -4,16 +4,16 @@
 # 貳、研討資源(私有儲存庫，限定權限)
 
 ## 一、課程教材
-* [紅隊滲透](https://github.com/TwMoonBear-Arsenal/red-team-lecture)
-* [藍隊防護](https://github.com/TwMoonBear-Arsenal/blue-team-lecture)
-* [黃隊研製](https://github.com/TwMoonBear-Arsenal/yellow-team-lecture)
-  - [系統層次](https://github.com/TwMoonBear-Arsenal/CCIT-Lecture-Yellow-Team/tree/main/1.系統層級)
-  - [模組層次](https://github.com/TwMoonBear-Arsenal/CCIT-Lecture-Yellow-Team/tree/main/2.模組層級)
+* [紅隊滲透](https://github.com/TwMoonBear-Arsenal/lecture-ccit-red-team)
+* [藍隊防護](https://github.com/TwMoonBear-Arsenal/lecture-ccit-blue-team)
+* [黃隊研製](https://github.com/TwMoonBear-Arsenal/lecture-ccit-yellow-team)
+  - [系統層次](https://github.com/TwMoonBear-Arsenal/lecture-ccit-Yellow-Team/tree/main/1.系統層級)
+  - [模組層次](https://github.com/TwMoonBear-Arsenal/lecture-ccit-Yellow-Team/tree/main/2.模組層級)
 
 ## 二、同學相關
-* [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-109-2-classwork)
-* [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-110-2-classwork)
-* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/ccit-111-2-classwork)
+* [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
+* [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-110-2)
+* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-111-2)
 * [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 
 # 三、練習&討論區
