@@ -9,9 +9,9 @@
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/lec-ccit-yellow-team)
   - [系統層次](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/1.系統層級)
   - [模組層次](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/2.模組層級)
-    * [1.專案Prj](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/2.模組層級/1.專案Pri)
-    * [2.工單Sop](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/2.模組層級/2.工單Sop)
-    * [3.操作Wi](https://github.com/TwMoonBear-Arsenal/lec-ccit-Yellow-Team/tree/main/2.模組層級/3.操作Wi)
+    * [1.專案Prj](https://github.com/TwMoonBear-Arsenal/Lec-Ccit-Yellow-Team/tree/main/2.%E6%A8%A1%E7%B5%84%E5%B1%A4%E7%B4%9A/1.%E5%B0%88%E6%A1%88(Prj))
+    * [2.工單Sop](https://github.com/TwMoonBear-Arsenal/Lec-Ccit-Yellow-Team/tree/main/2.%E6%A8%A1%E7%B5%84%E5%B1%A4%E7%B4%9A/2.%E5%B7%A5%E5%96%AE(Sop))
+    * [3.操作Wi](https://github.com/TwMoonBear-Arsenal/Lec-Ccit-Yellow-Team/tree/main/2.%E6%A8%A1%E7%B5%84%E5%B1%A4%E7%B4%9A/3.%E6%93%8D%E4%BD%9C(Wi))
 
 ## 二、同學相關
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
