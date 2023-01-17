@@ -1,8 +1,6 @@
+# 網路攻防實務課程
 
 ## 導言
-
-### 課程說明
-* [CCIT](https://rdrc.mnd.gov.tw/EditPage/?PageID=f739f16c-d733-44cf-9882-4e1cc1acc1d3)網路安全課程。
 
 ### 老師資訊
 * 陳佑全 Ph.D. 
