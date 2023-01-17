@@ -1,7 +1,9 @@
 # 壹、課程說明
 * [CCIT](https://rdrc.mnd.gov.tw/EditPage/?PageID=f739f16c-d733-44cf-9882-4e1cc1acc1d3)網路安全課程。
 
-## 老師資訊
+## 導言
+
+### 老師資訊
 * 陳佑全 Ph.D. 
 * 學歷：國防理工60期/ 美國海軍研究院系統工程碩士/ 美國海軍研究院電腦科學博士 
 * 經歷：
@@ -10,16 +12,16 @@
   * 國家中山科學研究院資安中心
 * 專長：資安防護、滲透測試、系統發展、模式模擬
 
-## 同學自我介紹
+### 同學自我介紹
 * 目前單位（碩班生）、畢業單位（大學部）。
 * 知識背景
 * 未來方向
 * 對課程期許
 
-## 課程主軸研擬
+### 課程主軸研擬
 可包含網路安全各類議題，依第一堂課視同學知識儲備及需求後決定。
 
-## 設定社群聯繫
+### 設定社群聯繫
 * Goolge Classroom
   * 學校帳號申請：https://docs.google.com/forms/d/e/1FAIpQLSdGoewU5EDYu5TS28GIeKZppB-jdvUpApCJ4S1BvklNJDlxbg/viewform
   * 在google classroom中留言 學號/姓名/github帳號
@@ -43,7 +45,7 @@
   * 研究參考資源- 如附件檔案
   * 網路安全法規- 如附件檔案
 
-## 研討資源(私有儲存庫，限定權限)
+## Github資源連結
 
 ### 課程教材
 * [藍隊防護](https://github.com/TwMoonBear-Arsenal/lec-ccit-blue-team)
