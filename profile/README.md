@@ -32,8 +32,6 @@
 * Goolge Classroom
   * 學校帳號申請：https://docs.google.com/forms/d/e/1FAIpQLSdGoewU5EDYu5TS28GIeKZppB-jdvUpApCJ4S1BvklNJDlxbg/viewform
   * 在google classroom中留言 學號/姓名/github帳號
-* Line群組
-  * 設立班代表或課程群組(結束後取消)
 * Github
   * 年班team
     * 老師設置後，同學加入
@@ -43,7 +41,9 @@
     * 說明課程Repo與年班team的差別
     * 老師在Repo討論區詢問是否同意學期資料留存學弟妹參考，請同學回復 
   * 練習Test-Area的Repo申請合併
-
+* Line群組
+  * 設立班代表或課程群組(結束後取消)
+ 
 ## 課程準備
 * 評分
   * 平時專報 50%
