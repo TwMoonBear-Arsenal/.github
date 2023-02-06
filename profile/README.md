@@ -62,6 +62,7 @@
 * [藍隊防護](https://github.com/TwMoonBear-Arsenal/lec-ccit-blue-team)
 * [紅隊滲透](https://github.com/TwMoonBear-Arsenal/lec-ccit-red-team) 
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/lec-ccit-yellow-team)
+* [綠隊訓測](https://github.com/TwMoonBear-Arsenal/lec-ccit-green-team)
 
 ### 同學相關
 * [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
