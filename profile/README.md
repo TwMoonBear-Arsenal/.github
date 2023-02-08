@@ -31,14 +31,13 @@
 ### 設定社群聯繫
 * Goolge Classroom
   * 學校帳號申請：https://docs.google.com/forms/d/e/1FAIpQLSdGoewU5EDYu5TS28GIeKZppB-jdvUpApCJ4S1BvklNJDlxbg/viewform
-  * 在google classroom中留言 學號/姓名/github帳號
+  * 在google classroom中留言 姓名/github帳號
 * Github
   * 年班team
-    * 老師設置後，同學加入
-    * 老師標註帳號及人名
+    * 老師設置後，同學加入    
   * 課程Repo
     * 老師設置後，加入相對應年班
-    * 說明課程Repo與年班team的差別
+    * 在年班team中留言 姓名/github帳號
     * 老師在Repo討論區詢問是否同意學期資料留存學弟妹參考，請同學回復 
   * 練習Test-Area的Repo申請合併
 * Line群組
@@ -56,6 +55,8 @@
   * 研究參考資源- 如附件檔案
   * 網路安全法規- 如附件檔案
 
+## 刑法36章 
+
 ## Github資源連結
 
 ### 課程教材
@@ -65,13 +66,5 @@
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/lec-ccit-yellow-team)
 
 ### 同學相關
-* [109學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-109-2)
-* [110學年下學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-110-2)
-* [111學年上學期課堂相關](https://github.com/TwMoonBear-Arsenal/classwork-ccit-111-1)
 * [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 
-## 練習&討論區
-* [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
-* [全部人的討論區](https://github.com/orgs/TwMoonBear-Arsenal/discussions)
-* 各課程討論區：進各課程Repo後，再進入專屬討論區。
-* 各年班討論區：進各年班Teams後，再進入專屬討論區。
