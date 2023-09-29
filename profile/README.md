@@ -1,6 +1,6 @@
 # 網路攻防實務課程
 
-## 第一堂課提綱
+## 作業步驟
 
 ### 1. First Hour
 
@@ -84,14 +84,14 @@
 
 
 
-## 2. Github資源連結
+## 參考資料
 
-### 2.1. 課程教材
+### 課程教材
 * [藍隊防護](https://github.com/TwMoonBear-Arsenal/lec-ccit-blue-team)
 * [紅隊滲透](https://github.com/TwMoonBear-Arsenal/lec-ccit-red-team) 
 * [綠隊訓測](https://github.com/TwMoonBear-Arsenal/lec-ccit-green-team)
 * [黃隊研製](https://github.com/TwMoonBear-Arsenal/lec-ccit-yellow-team)
 
-### 2.2. 同學相關
+### 同學相關
 * [Fork&Pull測試區](https://github.com/TwMoonBear-Arsenal/test-area)
 
