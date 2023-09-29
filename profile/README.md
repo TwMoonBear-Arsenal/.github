@@ -53,9 +53,9 @@
   * 課程Repo
     - 設置Team
       * 加入相對應年班team
-    - 設置announce
-      * 說明姓名/github帳號
-      * 詢問是否同意學期資料留存學弟妹參考，請同學回復 
+    - 新開Discuss
+      * 提醒Github資料不可刪，將留存學弟妹參考。
+      * 說明姓名/github帳號 
   * 申請Pull Request
     - 練習Test-Area的Repo申請合併
 
